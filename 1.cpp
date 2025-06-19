@@ -14,5 +14,6 @@ signed main(){
     cin>>t;
     while(t--){
         int x;
+        cin>>x;
     }
 }
